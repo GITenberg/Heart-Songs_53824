@@ -1,0 +1,25 @@
+_repo: Heart-Songs_53824
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blewett, Jean
+    alias: Blewett, Jean McKishnie
+    birthdate: 1862
+    deathdate: 1934
+    gutenberg_agent_id: '37898'
+    url: http://www.gutenberg.org/2009/agents/37898
+description: ''
+gutenberg_issued: '2016-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53824'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canadian poetry -- 19th century'
+- GITenberg
+title: Heart Songs
+url: http://www.gutenberg.org/ebooks/53824
